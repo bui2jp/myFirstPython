@@ -1,0 +1,9 @@
+command
+takeoff
+delay 10
+up 50
+cw 3600
+delay 10
+down 50
+delay 10
+land
